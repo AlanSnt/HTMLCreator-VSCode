@@ -10,10 +10,10 @@ You need to open a folder with VSCode.
 Just type `htmlcreator.html` to open the window
 and select an option:
 
-* `1`: Just create the folders and an HTML file
-* `2`: Create the folder and an HTML file as well as the CSS file
-* `3`: Create the folder and an HTML file as well as the JS file
-* `4`: Create the folder and an HTML file as well as the CSS and JS file
+* `1` : Just create the folders and an HTML file
+* `2` : Create the folder and an HTML file as well as the CSS file
+* `3` : Create the folder and an HTML file as well as the JS file
+* `4` : Create the folder and an HTML file as well as the CSS and JS file
 
 ## Known Issues
 
