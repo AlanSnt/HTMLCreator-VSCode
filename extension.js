@@ -99,7 +99,6 @@ async function CreateFolder(f, callback) {
         callback();
 }
 
-
 async function CreateGist() {
     if(vscode.workspace.workspaceFolders !== undefined) {
         const option = await vscode.window.showInputBox({
