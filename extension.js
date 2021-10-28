@@ -112,8 +112,6 @@ async function CreateGist() {
             CreateFolder(f, () => {
                 switch (parseInt(option)) {
                     case 1:
-                        console.log("1");
-                        console.log(f);
                         fs.appendFile(f+'/index.html', htmlData, function (err) {
                             if (err) throw err;
                         });
