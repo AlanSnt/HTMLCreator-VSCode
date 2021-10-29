@@ -1,5 +1,6 @@
 {
 	"name": "htmlcreator",
+	"publisher": "AlanSanter",
 	"displayName": "HtmlCreator",
 	"description": "Automatically create files and directories for an HTML / CSS / JS project",
 	"author": {
