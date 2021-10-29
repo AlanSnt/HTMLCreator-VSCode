@@ -6,13 +6,18 @@
 	"author": {
 		"name": "Alan Santer"
 	},
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.61.0"
 	},
-	"categories": ["Programming Languages", "Other"],
+	"categories": [
+		"Programming Languages",
+		"Other"
+	],
 	"icon": "icon.png",
-	"activationEvents": ["onCommand:htmlcreator.html"],
+	"activationEvents": [
+		"onCommand:htmlcreator.html"
+	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
@@ -43,8 +48,8 @@
 		"email": "cdeveloppement38@gmail.com"
 	},
 	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/CitarOff/HTMLCreator-VSCode.git"
+		"type": "git",
+		"url": "https://github.com/CitarOff/HTMLCreator-VSCode.git"
 	},
 	"homepage": "https://github.com/CitarOff/HTMLCreator-VSCode/blob/main/README.md"
 }
