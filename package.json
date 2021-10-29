@@ -10,7 +10,7 @@
 	"engines": {
 		"vscode": "^1.61.0"
 	},
-	"categories": ["Other"],
+	"categories": ["Programming Languages", "Other"],
 	"icon": "icon.png",
 	"activationEvents": ["onCommand:htmlcreator.html"],
 	"main": "./extension.js",

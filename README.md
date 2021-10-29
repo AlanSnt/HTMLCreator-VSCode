@@ -10,9 +10,11 @@ You need to open a folder with VSCode.
 
 ## How The Extension Works
 
-![alt text](https://media.giphy.com/media/7nd79pLHFUKAvoJMu8/giphy.gif "How to work")
+![alt text](https://media.giphy.com/media/TkCNsSRkZyocRwc2Gg/giphy.gif "How to work")
 
-Just type `htmlcreator.html` to open the window
+Just type `htmlcreator.html` to open the window :
+
+Put the title of the project
 and select an option:
 
 * `1` : Just create the folders and an HTML file
@@ -20,7 +22,7 @@ and select an option:
 * `3` : Create the folder and an HTML file as well as the JS file
 * `4` : Create the folder and an HTML file as well as the CSS and JS file
 
-### You can now add frameworks !
+**You can now add frameworks !**
 
 #### CSS
 * [Bootstrap](https://getbootstrap.com/)
