@@ -10,7 +10,7 @@ You need to open a folder with VSCode.
 
 ## How The Extension Works
 
-![alt text](https://media.giphy.com/media/LVk7S94oLU9hzd9E87/giphy.gif "How to work")
+![alt text](https://media.giphy.com/media/7nd79pLHFUKAvoJMu8/giphy.gif "How to work")
 
 Just type `htmlcreator.html` to open the window
 and select an option:
