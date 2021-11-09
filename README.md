@@ -26,6 +26,7 @@ and select an option:
 
 #### CSS
 * [Bootstrap](https://getbootstrap.com/)
+* [Bulma](https://bulma.io/)
 
 #### JS
 * [Jquery](https://jquery.com/)
@@ -47,9 +48,14 @@ Calling out known issues can help limit users opening duplicate issues against y
 - Possibility to add frameworks
 - Add Title input, and edit HTML `<title>`
 #### Changed
-- Reformat Code
+- Reformat Code 
 - Optimize Code
 
+### [1.0.3] | 2021-11-09
+#### Added
+- Bulma CSS Framework
+#### Changed
+- Possibility to choose the version of Bootstrap
 
 -----------------------------------------------------------------------------------------------------------
 
